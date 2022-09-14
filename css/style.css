@@ -42,6 +42,7 @@ div{
     padding: 20px;
     border: 3px solid #ffffff;
 }
+
 div.blue{
         background-color: #0000ff;
         text-align: left;
@@ -54,6 +55,7 @@ div.blue{
         border-left: 5px;
         border-bottom: 5px;
 }
+
 div.yellow{
     background-color: #ffff00;
     text-align: right;
@@ -66,6 +68,7 @@ div.yellow{
     border-top: 0px;
     border-right: 0px;
 }
+
 div.green{
     background-color: #008000;
     text-align: left;
@@ -105,6 +108,7 @@ footer{
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     border: 5px solid #ffffff;
 }
+
 footer p{
     color:#707070;
     font-size: 20px;
